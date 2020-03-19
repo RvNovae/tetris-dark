@@ -1,0 +1,18 @@
+body,
+canvas,
+#gameArea {
+    background-color: #212121;
+}
+
+body a {
+    color: #00B0FF;
+}
+
+#gameFrame tbody :nth-child(5),
+#gameFrame tbody :nth-child(6) {
+    visibility: hidden !important;
+}
+
+#gameIFrame {
+    border-radius: 13px;
+}
